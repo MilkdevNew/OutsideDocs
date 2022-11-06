@@ -1,0 +1,25 @@
+[data-md-color-scheme="outside-dark"] {
+  --md-primary-fg-color: #0d1b2a;
+  --md-default-bg-color: #1b263b;
+
+  /* This is code */
+
+  --md-code-hl-string-color: #9ecbff;
+  --md-code-hl-number-color: #79b8ff;
+  --md-code-hl-variable-color: #ffffff;
+  --md-code-hl-operator-color: #f97583;
+  --md-code-hl-function-color: #b392f0;
+  --md-code-hl-constant-color: #79b8ff;
+  --md-code-hl-punctuation-color: #ffffff;
+  --md-code-hl-name-color: #ffffff;
+  --md-code-hl-keyword-color: #f97583;
+  --md-code-bg-color: #0d1117;
+  --md-code-hl-comment-color: #6a737d;
+
+  /* End of code */
+  --md-code-bg-color: #0d1117;
+  --md-text-link-color: var(--md-typeset-a-color);
+  --md-typeset-color: #ffffff;
+  --md-typeset-mark-color: #ffffff;
+  --md-default-fg-color--light: #ffffff;
+}
